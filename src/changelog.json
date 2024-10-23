@@ -3,7 +3,7 @@
     "version": "1.16.0",
     "changes": [
       "Update to SVGO v3.0.0",
-      "Add transform precision option",
+      "Add transform precision optio",
       "New optimisation: Remove out-of-bounds paths",
       "Many codebase fixes/tidyups/optimisations (thanks XhmikosR)"
     ]
